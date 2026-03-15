@@ -40,7 +40,7 @@ const STAFF_NAME_COLUMN_NAME = "Họ tên";
 const STAFF_EMAIL_COLUMN_NAME = "Email";
 const STAFF_POSITION_COLUMN_NAME = "Chức vụ";
 const STAFF_ROLE_COLUMN_NAME = "Phân quyền";
-const STAFF_PASSWORD_COLUMN_NAME = "Mật khẩu";
+
 
 // === Cột sheet "Nhật ký hoạt động" ===
 const LOG_TIMESTAMP_COLUMN_NAME = "Thời gian";
